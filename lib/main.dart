@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         appBar: AppBar(
           title: Text(
-            'merging payment ',
+            'merging payment new',
             style: Theme.of(context).textTheme.headline5,
           ),
         ),
